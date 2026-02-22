@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Dextify App Icon Foreground
+    Centered Pokéball emblem with gradient top,
+    divider band, outer ring, and cyan core button.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+
+    <path
+        android:fillColor="#E5E5E5"
+        android:pathData="M28,54 A26,26 0 0,0 80,54 Z" />
+
+    <path
+        android:fillColor="#08000000"
+        android:pathData="M28,54 L80,54 L80,57 L28,57 Z" />
+
+    <path
+        android:pathData="M28,54 A26,26 0 0,1 80,54 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="54"
+                android:startY="28"
+                android:endX="54"
+                android:endY="54"
+                android:startColor="#F05A5A"
+                android:endColor="#E84C4C" />
+        </aapt:attr>
+    </path>
+
+    <path
+        android:fillColor="#2A2A2A"
+        android:pathData="M28,51.5 L80,51.5 L80,56.5 L28,56.5 Z" />
+
+    <path
+        android:fillColor="#2A2A2A"
+        android:pathData="
+            M54,54 m-27,0 a27,27 0 1,0 54,0 a27,27 0 1,0 -54,0
+            M54,54 m-25,0 a25,25 0 1,1 50,0 a25,25 0 1,1 -50,0 Z" />
+
+    <path
+        android:fillColor="#2A2A2A"
+        android:pathData="
+            M54,54 m-7.5,0 a7.5,7.5 0 1,0 15,0 a7.5,7.5 0 1,0 -15,0
+            M54,54 m-5.2,0 a5.2,5.2 0 1,1 10.4,0 a5.2,5.2 0 1,1 -10.4,0 Z" />
+
+    <path
+        android:pathData="
+            M54,54 m-5.2,0 a5.2,5.2 0 1,0 10.4,0 a5.2,5.2 0 1,0 -10.4,0 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="radial"
+                android:centerX="54"
+                android:centerY="54"
+                android:gradientRadius="5.2"
+                android:startColor="#BEE8FF"
+                android:endColor="#8FD3FF" />
+        </aapt:attr>
+    </path>
+
+</vector>

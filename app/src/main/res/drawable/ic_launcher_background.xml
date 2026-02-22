@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Dextify App Icon Background
+    Deep navy base with radial cyan particle aura.
+    Designed to give a subtle cosmic / mystical glow effect
+    behind the central Pokéball mark.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillColor="#141B34"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- ── P1 (84, 43) ─────────────────────── -->
+    <path android:fillColor="#138FD3FF"
+        android:pathData="M84,43m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#228FD3FF"
+        android:pathData="M84,43m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+    <path android:fillColor="#408FD3FF"
+        android:pathData="M84,41 L86,43 L84,45 L82,43 Z" />
+
+    <!-- ── P2 (72, 33) ─────────────────────── -->
+    <path android:fillColor="#10BEE8FF"
+        android:pathData="M72,33m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#1FBEE8FF"
+        android:pathData="M72,33m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+    <path android:fillColor="#38BEE8FF"
+        android:pathData="M72,31.5 L73.5,33 L72,34.5 L70.5,33 Z" />
+
+    <!-- ── P3 (57, 19) ─────────────────────── -->
+    <path android:fillColor="#158FD3FF"
+        android:pathData="M57,19m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path android:fillColor="#258FD3FF"
+        android:pathData="M57,19m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <path android:fillColor="#458FD3FF"
+        android:pathData="M57,17 L59,19 L57,21 L55,19 Z" />
+
+    <!-- ── P4 (38, 28) ─────────────────────── -->
+    <path android:fillColor="#10BEE8FF"
+        android:pathData="M38,28m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path android:fillColor="#1CBEE8FF"
+        android:pathData="M38,28m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#3CBEE8FF"
+        android:pathData="M38,26.5 L39.5,28 L38,29.5 L36.5,28 Z" />
+
+    <path android:fillColor="#128FD3FF"
+        android:pathData="M23,40m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#208FD3FF"
+        android:pathData="M23,40m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+    <path android:fillColor="#3D8FD3FF"
+        android:pathData="M23,38 L25,40 L23,42 L21,40 Z" />
+
+    <!-- ── P6 (26, 59) ─────────────────────── -->
+    <path android:fillColor="#0FBEE8FF"
+        android:pathData="M26,59m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path android:fillColor="#1ABEE8FF"
+        android:pathData="M26,59m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#38BEE8FF"
+        android:pathData="M26,57.5 L27.5,59 L26,60.5 L24.5,59 Z" />
+
+    <!-- ── P7 (30, 81) ─────────────────────── -->
+    <path android:fillColor="#148FD3FF"
+        android:pathData="M30,81m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path android:fillColor="#228FD3FF"
+        android:pathData="M30,81m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <path android:fillColor="#428FD3FF"
+        android:pathData="M30,79 L32,81 L30,83 L28,81 Z" />
+
+    <!-- ── P8 (50, 81) ─────────────────────── -->
+    <path android:fillColor="#10BEE8FF"
+        android:pathData="M50,81m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path android:fillColor="#1DBEE8FF"
+        android:pathData="M50,81m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#3ABEE8FF"
+        android:pathData="M50,79.5 L51.5,81 L50,82.5 L48.5,81 Z" />
+
+    <!-- ── P9 (69, 85) ─────────────────────── -->
+    <path android:fillColor="#138FD3FF"
+        android:pathData="M69,85m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#228FD3FF"
+        android:pathData="M69,85m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+    <path android:fillColor="#408FD3FF"
+        android:pathData="M69,83 L71,85 L69,87 L67,85 Z" />
+
+    <!-- ── P10 (81, 69) ─────────────────────── -->
+    <path android:fillColor="#11BEE8FF"
+        android:pathData="M81,69m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#20BEE8FF"
+        android:pathData="M81,69m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+    <path android:fillColor="#3CBEE8FF"
+        android:pathData="M81,67 L83,69 L81,71 L79,69 Z" />
+
+</vector>
